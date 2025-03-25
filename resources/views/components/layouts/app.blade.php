@@ -38,7 +38,7 @@
     <div class="container">
         <div class="nav-bar">
             <a href="" class="logo">
-                <img src="{{asset('theme_asset/home/img/logo.jpg')}}" alt="" />
+                <img style="height: 80px;" src="{{asset('theme_asset/home/img/logo.jpg')}}" alt="" />
             </a>
 
             <div class="d-flex align-items-center">
